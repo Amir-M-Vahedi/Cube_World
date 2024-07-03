@@ -61,3 +61,7 @@ Several important lessons were learned throughout this challenge:
 - **Algorithm Selection:** Choosing an appropriate optimization algorithm can significantly impact the efficiency and effectiveness of the solution.
 - **Iterative Refinement:** Continuous refinement and evaluation are essential to achieving optimal results.
 - **Visualization:** Visualizing the design helps in understanding the interactions and potential issues with the paths.
+
+## Acknowledgments
+
+The initial draft of this project's Jupyter Notebook was provided by The Informatics for Design, Engineering, And Learning (IDEAL) Lab. You can find more about their work on their [GitHub page](https://github.com/IDEALLab).
